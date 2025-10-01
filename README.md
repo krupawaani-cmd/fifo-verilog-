@@ -6,13 +6,9 @@ It includes the design, testbench, and simulation waveform.
 
 Project Structure
 
-src/fifo.v → FIFO RTL design
-
-tb/fifo_tb.v → Testbench code
-
-sim/dump.vcd → Generated VCD file for waveform
-
-sim/fifo_waveform.png → Screenshot of waveform from simulation
+fifo.v → FIFO RTL design
+fifo_tb.v → Testbench code
+fifo_waveform.png → Screenshot of waveform from simulation
 
 Features
 
